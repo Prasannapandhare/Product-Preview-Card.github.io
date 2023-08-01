@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Server URL]()
+- Live Site URL: [Live Server URL](https://prasannapandhare.github.io/Product-Preview-Card.github.io/)
 
 ## My process
 
